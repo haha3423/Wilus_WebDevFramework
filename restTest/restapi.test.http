@@ -1,0 +1,8 @@
+GET localhost:8080/find/rental
+Content-Type: application/json
+
+{
+  "empName": "남진헌"
+}
+
+###

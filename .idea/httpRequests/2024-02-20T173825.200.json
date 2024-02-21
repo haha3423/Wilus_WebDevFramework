@@ -1,0 +1,41 @@
+[
+  {
+    "gearNo": 4206,
+    "dispatch": "Y",
+    "empNo": 1040,
+    "empName": "남진헌                           ",
+    "gearType": "E2",
+    "gearTypeName": "OF",
+    "gearName": "LG 그램 14                      ",
+    "rentalDate": "2021-02-16",
+    "returnDate": "",
+    "serialNo": "510NZVF041007            ",
+    "memo": "하이트진로 유지보수 지원용                                                                                                                                                                                          "
+  },
+  {
+    "gearNo": 4183,
+    "dispatch": "Y",
+    "empNo": 1040,
+    "empName": "남진헌                           ",
+    "gearType": "E3",
+    "gearTypeName": "OF",
+    "gearName": "주연 캐리뷰144 V16FPG              ",
+    "rentalDate": "2020-03-19",
+    "returnDate": "",
+    "serialNo": "JTAIAAN11V162021A        ",
+    "memo": "케이블 3개 불출 중                                                                                                                                                                                             "
+  },
+  {
+    "gearNo": 4175,
+    "dispatch": "N",
+    "empNo": 1040,
+    "empName": "남진헌                           ",
+    "gearType": "E2",
+    "gearTypeName": "CO",
+    "gearName": "삼성 갤럭시 북 Ion                  ",
+    "rentalDate": "2021-01-15",
+    "returnDate": "",
+    "serialNo": "4TXJ9FHNC00033           ",
+    "memo": "부속품(랜젠더, 가방, 마우스) 사용자 미수령                                                                                                                                                                               "
+  }
+]

@@ -1,0 +1,90 @@
+GET http://localhost:8080/find/rental
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "empName": "남진헌"
+}
+
+<> 2024-02-20T173825.200.json
+
+###
+
+GET http://localhost:8080/find/rental
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "empName": "남진헌"
+}
+
+<> 2024-02-20T173711.200.json
+
+###
+
+GET http://localhost:8080/find/rental
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "empName": "남진헌"
+}
+
+<> 2024-02-20T173231.200.json
+
+###
+
+GET http://localhost:8080/find/rental
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "empName": "남진헌"
+}
+
+<> 2024-02-20T172813.200.json
+
+###
+
+GET http://localhost:8080/find/rental
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "empName": "남진헌"
+}
+
+<> 2024-02-20T172811.200.json
+
+###
+
+GET http://localhost:8080/find/rental
+Content-Type: application/json
+Content-Length: 28
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "empName": "남진헌"
+}
+
+<> 2024-02-20T172653.200.json
+
+###
+

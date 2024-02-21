@@ -1,0 +1,22 @@
+spring:
+  devtools:
+    livereload:
+      enabled: false
+  jpa:
+    database-platform: org.hibernate.dialect.Oracle12cDialect
+    generate-ddl: true
+    open-in-view: false
+    show-sql: true
+  datasource:
+    driver-class-name: oracle.jdbc.driver.OracleDriver
+    url: jdbc:oracle:thin:@193.123.229.35:1521:ORCL
+    hikari:
+      username: TESTDTA
+      password: TESTDTA
+    jpa:
+      properties:
+        hibernate:
+          format_sql: true
+      show-sql: true
+      hibernate:
+        ddl-auto: update
