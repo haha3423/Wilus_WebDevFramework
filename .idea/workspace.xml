@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41fcb0ea-d3b1-4c48-a1f2-65070adf4f55" name="변경" comment="" />
+    <list default="true" id="41fcb0ea-d3b1-4c48-a1f2-65070adf4f55" name="변경" comment="Initialize Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +53,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JpbToolWindowState">
     <option name="isToolWindowVisible" value="false" />
   </component>
@@ -63,6 +66,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2cQUtIlStIId6LWaZIlXotDCxUz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -84,6 +88,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.DemoBackendApplication.executor": "Run",
+    "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "openjdk-18",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/jihoon/IdeaProjects/wilus/wilus-svelte",
@@ -94,7 +99,7 @@
     "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "프로젝트",
+    "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.22392638",
     "settings.editor.selected.configurable": "settings.codegpt",
@@ -369,10 +374,24 @@
       <workItem from="1708389376015" duration="15605000" />
       <workItem from="1708412732773" duration="7258000" />
       <workItem from="1708473977177" duration="390000" />
+      <workItem from="1708490775220" duration="759000" />
     </task>
+    <task id="LOCAL-00001" summary="Initialize Commit">
+      <option name="closed" value="true" />
+      <created>1708490935297</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708490935297</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialize Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize Commit" />
   </component>
 </project>

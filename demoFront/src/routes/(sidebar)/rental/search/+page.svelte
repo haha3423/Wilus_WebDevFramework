@@ -1,18 +1,10 @@
 <script>
 	// @ts-nocheck
 	import {
-		Breadcrumb,
-		BreadcrumbItem,
-		Button,
-		Card,
-		Heading,
-		Input,
-		Label,
-		Select
+		Breadcrumb, BreadcrumbItem, Button, Card, Heading, Input, Label, Select
 	} from 'flowbite-svelte';
-	//import CustForm from '../../dashboard/CustForm.svelte';
-	import AgGrid from '$lib/grid/AgGrid.svelte';
 	import { onMount } from 'svelte';
+	import AgGrid from '$lib/grid/AgGrid.svelte';
 
 	// Form Info
 	const menuName = '렌탈관리';
