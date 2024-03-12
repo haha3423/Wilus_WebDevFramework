@@ -27,7 +27,7 @@ class F56r001(
     @JoinColumn(name = "R1AN81", referencedColumnName = "C4AN81", insertable = false, updatable = false)
     var emp: F55c004? = null, // 사용자
 
-    @Nationalized
+    @Nationalized // NCHAR, NVARCHAR, NCLOB 등을 사용할 떄 충돌 방지를 위해 사용
     @Column(name = "R1D200", length = 200)
     var r1d200: String? = null,
 

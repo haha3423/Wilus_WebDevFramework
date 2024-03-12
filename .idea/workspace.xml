@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41fcb0ea-d3b1-4c48-a1f2-65070adf4f55" name="변경" comment="Initialize Commit" />
+    <list default="true" id="41fcb0ea-d3b1-4c48-a1f2-65070adf4f55" name="변경" comment="Initialize Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,46 +74,46 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.demoBackend [bootJar].executor": "Run",
-    "Gradle.demoBackend [build].executor": "Run",
-    "Gradle.demoBackend [classes].executor": "Run",
-    "Gradle.demoBackend [clean].executor": "Run",
-    "Gradle.demoBackend [querydslClasses].executor": "Run",
-    "Gradle.demoBackend 빌드.executor": "Run",
-    "HTTP 요청.restapi.test | #1.executor": "Run",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.DemoBackendApplication.executor": "Run",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/jihoon/IdeaProjects/wilus/wilus-svelte",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.22392638",
-    "settings.editor.selected.configurable": "settings.codegpt",
-    "settings.editor.splitter.proportion": "0.23445463",
-    "ts.external.directory.path": "/Users/jihoon/IdeaProjects/wilus/wilus-svelte/demoFront/node_modules/typescript/lib"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.demoBackend [bootJar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.demoBackend [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.demoBackend [classes].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.demoBackend [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.demoBackend [querydslClasses].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.demoBackend 빌드.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP 요청.restapi.test | #1.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.DemoBackendApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jihoon/IdeaProjects/wilus/wilus-svelte&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;모듈&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.22392638&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.codegpt&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.23445463&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/jihoon/IdeaProjects/wilus/wilus-svelte/demoFront/node_modules/typescript/lib&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "oracle"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/demoFront/src/routes/(sidebar)/rental" />
@@ -375,6 +377,8 @@
       <workItem from="1708412732773" duration="7258000" />
       <workItem from="1708473977177" duration="390000" />
       <workItem from="1708490775220" duration="759000" />
+      <workItem from="1709137018987" duration="2764000" />
+      <workItem from="1709196554667" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize Commit">
       <option name="closed" value="true" />
