@@ -1,4 +1,4 @@
-package com.wilus.demo.entity.f56a001
+package com.wilus.demo.entity.rental.f56a001
 
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository

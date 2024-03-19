@@ -68,6 +68,14 @@
 				'신규렌탈등록': '/rental/insert'
 			}
 		},
+		{
+			name: '생산오더',
+			icon: TableColumnSolid,
+			children: {
+				'생산오더조회': '/wo/search',
+				'생산오더추가': '/wo/insert'
+			}
+		},
 	];
 	let mainDropdowns = Object.fromEntries(Object.keys(mainMenu).map((x) => [x, false]));	
 </script>

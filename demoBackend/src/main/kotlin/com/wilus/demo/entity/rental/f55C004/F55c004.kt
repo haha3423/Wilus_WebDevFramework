@@ -1,4 +1,4 @@
-package com.wilus.demo.entity.f55C004
+package com.wilus.demo.entity.rental.f55C004
 
 import jakarta.persistence.Column
 import jakarta.persistence.Entity

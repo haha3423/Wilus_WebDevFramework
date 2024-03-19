@@ -1,4 +1,4 @@
-package com.wilus.demo.entity.f56R001;
+package com.wilus.demo.entity.rental.f56R001;
 
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.data.jpa.repository.Query
@@ -18,6 +18,5 @@ interface F56r001Repository : JpaRepository<F56r001, F56r001Id> {
     fun findByNameAndSerialAndDisp(
         name: String?, serial: String?, dispatch: String?
     ): List<F56r001>
-
 
 }

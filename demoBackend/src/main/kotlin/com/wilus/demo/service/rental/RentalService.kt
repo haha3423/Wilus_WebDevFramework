@@ -2,7 +2,7 @@ package com.wilus.demo.service.rental
 
 import com.wilus.demo.dto.rental.RentalInfoDto
 import com.wilus.demo.dto.rental.RentalSearchDto
-import com.wilus.demo.entity.f56R001.F56r001Repository
+import com.wilus.demo.entity.rental.f56R001.F56r001Repository
 import mu.KotlinLogging
 import org.springframework.stereotype.Service
 

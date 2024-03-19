@@ -1,8 +1,8 @@
-package com.wilus.demo.entity.f56R001
+package com.wilus.demo.entity.rental.f56R001
 
 import com.wilus.demo.dto.rental.RentalInfoDto
-import com.wilus.demo.entity.f55C004.F55c004
-import com.wilus.demo.entity.f56e001.F56e001
+import com.wilus.demo.entity.rental.f55C004.F55c004
+import com.wilus.demo.entity.rental.f56e001.F56e001
 import com.wilus.demo.util.CommUtil
 import jakarta.persistence.*
 import org.hibernate.annotations.Nationalized

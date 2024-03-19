@@ -1,4 +1,4 @@
-package com.wilus.demo.entity.f56R001
+package com.wilus.demo.entity.rental.f56R001
 
 import jakarta.persistence.Column
 import jakarta.persistence.Embeddable
@@ -13,6 +13,7 @@ open class F56r001Id : Serializable {
 
     @Column(name = "R1CSDT", nullable = false)
     open var r1csdt: Int? = null
+
     override fun hashCode(): Int = Objects.hash(r1ukid, r1csdt)
     override fun equals(other: Any?): Boolean {
         if (this === other) return true
